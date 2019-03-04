@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CandyFX">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CandyFX_jar/CandyFX.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
